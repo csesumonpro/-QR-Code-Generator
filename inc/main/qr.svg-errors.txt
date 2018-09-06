@@ -1,0 +1,11 @@
+2018-08-14 16:16:10: <br />
+<b>Warning</b>:  strlen() expects parameter 1 to be string, array given in <b>C:\xampp\htdocs\qr\main\qrsplit.php</b> on line <b>250</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\qr\main\qrinput.php</b> on line <b>520</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\qr\main\qrinput.php</b> on line <b>520</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\qr\main\qrinput.php</b> on line <b>592</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\qr\main\qrinput.php</b> on line <b>685</b><br />
+2018-09-02 18:05:35: empty string!!!2018-09-02 18:06:36: empty string!!!2018-09-02 21:10:47: empty string!!!2018-09-02 21:15:15: empty string!!!2018-09-02 21:15:36: empty string!!!2018-09-02 21:16:52: empty string!!!2018-09-02 21:17:55: empty string!!!2018-09-02 21:19:21: empty string!!!2018-09-02 21:26:42: empty string!!!2018-09-02 22:21:14: empty string!!!2018-09-02 22:42:50: empty string!!!2018-09-02 22:44:29: empty string!!!2018-09-03 14:37:57: empty string!!!2018-09-03 14:40:44: empty string!!!2018-09-03 14:41:14: empty string!!!2018-09-03 14:41:16: empty string!!!2018-09-03 14:41:42: empty string!!!2018-09-03 14:42:39: empty string!!!2018-09-03 14:54:10: empty string!!!2018-09-03 14:55:13: empty string!!!2018-09-03 14:55:23: empty string!!!2018-09-03 15:10:25: empty string!!!2018-09-03 15:25:06: empty string!!!2018-09-03 15:25:23: empty string!!!2018-09-03 16:13:28: empty string!!!
